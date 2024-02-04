@@ -1,0 +1,32 @@
+[
+	{
+		"Roll_No" : 1,
+		"Name" : "Arjo",
+		"Address" : "Bengaluru",
+		"Semester" : 6
+	},
+	{
+		"Roll_No" : 2,
+		"Name" : "Rounak",
+		"Address" : "Bengaluru",
+		"Semester" : 5
+	},
+	{
+		"Roll_No" : 3,
+		"Name" : "Aniruddha",
+		"Address" : "Kolkata",
+		"Semester" : 6
+	},
+	{
+		"Roll_No" : 4,
+		"Name" : "Ritabrata",
+		"Address" : "Bengaluru",
+		"Semester" : 5
+	},
+	{
+		"Roll_No" : 5,
+		"Name" : "Debayan",
+		"Address" : "Bengaluru",
+		"Semester" : 5
+	}
+]
